@@ -17,7 +17,7 @@ This repository contains a web scraping program for extracting and structuring d
 
 3. Running:
     ```bash
-    python autoscout24.py
+    python autoscout.py
     ```
 
 4. Results:
